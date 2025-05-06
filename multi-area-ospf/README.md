@@ -1,0 +1,23 @@
+# Multi-area OSPF lab
+
+## Topology
+- R1 <==> R2: Area 0 (10.1.1.0/30)
+- R2 <==> R3: Area 1 (10.1.1.4/30)
+- R2 == ABR
+- PC1 <==> R1: 192.168.10.100/24, GW 192.168.10.1
+- PC2 <==> R2: 192.168.20.100/24, GW 192.168.20.1
+
+## Features
+- Loopback addresses: R1 1.1.1.1, R2 2.2.2.2, R3 3.3.3.3
+- R2 is an ABR
+
+
+## Objectives
+- Basic simulation of multi-area OSPF
+- Verify reachability between Area 0 and Area 1
+- Observe LSA propagation
+
+## Notes
+- Used Packet Tracer for this build
+- Initially assigned the IP address 10.1.1.5 on R2 to the wrong interface. Fixed.
+- It works.

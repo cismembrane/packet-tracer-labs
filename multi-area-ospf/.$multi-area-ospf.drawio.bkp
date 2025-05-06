@@ -1,0 +1,76 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.15 Chrome/134.0.6998.205 Electron/35.2.1 Safari/537.36" version="26.2.15">
+  <diagram name="Page-1" id="2MQhNA0Qts5mjxqBeQRv">
+    <mxGraphModel dx="1048" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ts59tK_LAikNwl-pDXK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ts59tK_LAikNwl-pDXK-1" target="8ts59tK_LAikNwl-pDXK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ts59tK_LAikNwl-pDXK-1" target="8ts59tK_LAikNwl-pDXK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-1" value="&lt;div&gt;R3&lt;/div&gt;" style="shape=mxgraph.cisco.routers.10700;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;direction=east;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190.5" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ts59tK_LAikNwl-pDXK-2" target="8ts59tK_LAikNwl-pDXK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ts59tK_LAikNwl-pDXK-2" target="8ts59tK_LAikNwl-pDXK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ts59tK_LAikNwl-pDXK-2" target="8ts59tK_LAikNwl-pDXK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-2" value="R2" style="shape=mxgraph.cisco.routers.10700;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ts59tK_LAikNwl-pDXK-3" target="8ts59tK_LAikNwl-pDXK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-3" value="R1" style="shape=mxgraph.cisco.routers.10700;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ts59tK_LAikNwl-pDXK-4" target="8ts59tK_LAikNwl-pDXK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-4" value="PC2" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-5" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ts59tK_LAikNwl-pDXK-6" target="8ts59tK_LAikNwl-pDXK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-6" value="PC1" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-22" value="G0/0/1&lt;div&gt;192.168.20.1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="243.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-23" value="192.168.20.10/24" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-25" value="&lt;div&gt;G0/0/0&lt;/div&gt;10.1.1.1/30" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="148" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-26" value="G0/0/0&lt;div&gt;10.1.1.2/30&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-27" value="G0/0/1&lt;div&gt;10.1.1.5/30&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-28" value="G0/0/0&lt;div&gt;10.1.1.6/30&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-29" value="10.1.1.0/30&lt;div&gt;Area 0&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-30" value="10.1.1.4/30&lt;div&gt;Area 1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
