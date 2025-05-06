@@ -49,8 +49,8 @@
         <mxCell id="8ts59tK_LAikNwl-pDXK-22" value="G0/0/1&lt;div&gt;192.168.20.1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="243.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ts59tK_LAikNwl-pDXK-23" value="192.168.20.10/24" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="8ts59tK_LAikNwl-pDXK-23" value="192.168.20.100/24&lt;div&gt;DG: 192.168.20.1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ts59tK_LAikNwl-pDXK-25" value="&lt;div&gt;G0/0/0&lt;/div&gt;10.1.1.1/30" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="148" y="230" width="60" height="30" as="geometry" />
@@ -70,8 +70,20 @@
         <mxCell id="8ts59tK_LAikNwl-pDXK-30" value="10.1.1.4/30&lt;div&gt;Area 1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ts59tK_LAikNwl-pDXK-31" value="192.168.10.100/24" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8ts59tK_LAikNwl-pDXK-31" value="192.168.10.100/24&lt;div&gt;DG: 192.168.10.1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-32" value="G0/0/0&lt;div&gt;192.168.10.1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="243.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-33" value="Loopback0&lt;div&gt;1.1.1.1&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-34" value="Loopback0&lt;div&gt;2.2.2.2&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="319" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ts59tK_LAikNwl-pDXK-35" value="Loopback0&lt;div&gt;3.3.3.3&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
